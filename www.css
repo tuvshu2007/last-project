@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  background-color: antiquewhite;
+  width: 100vw;
+  height: 100vh;
+}
+.sunny {
+  height: 50vh;
+  background-color: rgb(234, 234, 234);
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.nana {
+  border-radius: 50px;
+  border: 10px wheat;
+  background-color: white;
+  height: 844px;
+  width: 390px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.man {
+  width: 400px;
+  height: 60px;
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  color: #6b7280;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.man2 {
+  display: inline;
+}
+.up {
+  height: 50px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.man3 {
+  height: 100px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  height: 50%;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.sun {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.temp {
+  height: 200px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
